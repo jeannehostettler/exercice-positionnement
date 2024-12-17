@@ -5,8 +5,8 @@
   padding: 1rem;
   color: $black;
   position: fixed;
-  bottom: 0;
-  right: 0;
+  bottom: 1vh;
+  right: 1vh;
 
   @media screen and (max-width: $sm) {
     right: 0.75rem;
