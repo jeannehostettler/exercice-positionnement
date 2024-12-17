@@ -17,6 +17,7 @@ video {
   display: block;
 }
 
-.section-title {
+.section-title:nth-child(1) {
   position: sticky;
+  top: 6vh;
 }
